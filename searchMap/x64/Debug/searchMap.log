@@ -1,0 +1,11 @@
+﻿  searchMapDlg.cpp
+d:\source\searchmap\searchmap\searchmapdlg.cpp(37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\source\searchmap\searchmap\searchmapdlg.cpp(50): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\source\searchmap\searchmap\searchmapdlg.cpp(55): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\source\searchmap\searchmap\searchmapdlg.cpp(59): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\source\searchmap\searchmap\searchmapdlg.cpp(60): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\source\searchmap\searchmap\searchmapdlg.cpp(64): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\source\searchmap\searchmap\searchmapdlg.cpp(65): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\source\searchmap\searchmap\searchmapdlg.cpp(503): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\source\searchmap\searchmap\searchmapdlg.cpp(291): warning C4715: “myMap::getState”: 不是所有的控件路径都返回值
+  searchMap.vcxproj -> D:\source\searchMap\x64\Debug\searchMap.exe
