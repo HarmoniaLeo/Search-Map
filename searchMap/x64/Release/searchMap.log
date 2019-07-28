@@ -1,5 +1,0 @@
-﻿  stdafx.cpp
-  searchMap.cpp
-d:\source\searchmap\searchmap\searchmap.h(12): fatal error C1083: 无法打开包括文件: “opencv2/opencv.hpp”: No such file or directory
-  searchMapDlg.cpp
-d:\source\searchmap\searchmap\searchmap.h(12): fatal error C1083: 无法打开包括文件: “opencv2/opencv.hpp”: No such file or directory
